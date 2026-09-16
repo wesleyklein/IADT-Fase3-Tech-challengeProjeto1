@@ -1,0 +1,6 @@
+PR-008 | Auditoria e limites
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Registre identificador da execução, etapas, ferramentas consultadas, fontes e decisão humana. Evite copiar conteúdo de prontuário desnecessário para logs. O protótipo aceita apenas dados sintéticos e não funciona como atendimento de emergência.

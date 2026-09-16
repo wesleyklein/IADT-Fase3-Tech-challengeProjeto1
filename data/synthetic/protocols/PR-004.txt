@@ -1,0 +1,6 @@
+PR-004 | Revisão humana
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Qualquer sugestão de conduta permanece como rascunho até revisão humana. Registrar aprovação ou rejeição, responsável e instante. Uma recusa encerra a proposta; não executá-la automaticamente. A ausência de revisor mantém a proposta pendente.

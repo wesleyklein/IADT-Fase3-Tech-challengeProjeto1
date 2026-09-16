@@ -1,0 +1,6 @@
+PR-002 | Pendências de exames
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Consulte o status de cada exame. pending indica pendência, completed indica resultado registrado e cancelled indica cancelamento. Não interprete pendência como resultado normal. O assistente não solicita exames autonomamente.

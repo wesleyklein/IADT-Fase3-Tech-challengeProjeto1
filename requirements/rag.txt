@@ -1,0 +1,8 @@
+-r finetuning.txt
+langchain-core==0.3.51
+langchain-community==0.3.21
+langchain-text-splitters==0.3.8
+langchain-huggingface==0.1.2
+sentence-transformers==4.1.0
+faiss-cpu==1.10.0
+numpy==1.26.4

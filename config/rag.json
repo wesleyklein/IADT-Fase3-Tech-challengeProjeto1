@@ -1,0 +1,14 @@
+{
+  "protocols": "data/synthetic/protocols",
+  "index": "data/local/rag-index",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_revision": "main",
+  "chunk_size": 300,
+  "chunk_overlap": 60,
+  "top_k": 2,
+  "max_distance": 0.9,
+  "max_input_tokens": 512,
+  "max_new_tokens": 96,
+  "device": "cpu",
+  "run": "runs/qlora-mx150-01"
+}

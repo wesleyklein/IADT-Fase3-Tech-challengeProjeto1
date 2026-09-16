@@ -1,0 +1,90 @@
+{
+  "synthetic": true,
+  "version": 1,
+  "patients": [
+    {
+      "id": "SYN-P001",
+      "display_name": "Paciente fictício 001",
+      "age": 52,
+      "summary": "Acompanhamento simulado. Exame solicitado sem resultado disponível.",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-P002",
+      "display_name": "Paciente fictício 002",
+      "age": 39,
+      "summary": "Consulta fictícia de acompanhamento com exame concluído.",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-P003",
+      "display_name": "Paciente fictício 003",
+      "age": 67,
+      "summary": "Registro demonstrativo sem exames cadastrados.",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-P004",
+      "display_name": "Paciente fictício 004",
+      "age": 28,
+      "summary": "Atendimento simulado com exame cancelado.",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-P005",
+      "display_name": "Paciente fictício 005",
+      "age": 61,
+      "summary": "Acompanhamento fictício com resultados e pendências.",
+      "synthetic": true
+    },
+    {
+      "id": "SYN-P006",
+      "display_name": "Paciente fictício 006",
+      "age": 45,
+      "summary": "Registro sintético incompleto para testar esclarecimentos.",
+      "synthetic": true
+    }
+  ],
+  "exams": [
+    {
+      "id": "SYN-E001",
+      "patient_id": "SYN-P001",
+      "name": "Hemograma",
+      "status": "pending",
+      "requested_at": "2026-09-01T10:00:00Z",
+      "result": null
+    },
+    {
+      "id": "SYN-E002",
+      "patient_id": "SYN-P002",
+      "name": "Glicemia",
+      "status": "completed",
+      "requested_at": "2026-09-01T10:00:00Z",
+      "result": "Resultado sintético registrado; sem interpretação clínica."
+    },
+    {
+      "id": "SYN-E003",
+      "patient_id": "SYN-P004",
+      "name": "Exame de urina",
+      "status": "cancelled",
+      "requested_at": "2026-09-01T10:00:00Z",
+      "result": null
+    },
+    {
+      "id": "SYN-E004",
+      "patient_id": "SYN-P005",
+      "name": "Hemograma",
+      "status": "completed",
+      "requested_at": "2026-09-01T10:00:00Z",
+      "result": "Resultado sintético disponível para revisão profissional."
+    },
+    {
+      "id": "SYN-E005",
+      "patient_id": "SYN-P005",
+      "name": "Glicemia",
+      "status": "pending",
+      "requested_at": "2026-09-01T10:00:00Z",
+      "result": null
+    }
+  ]
+}

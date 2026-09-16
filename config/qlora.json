@@ -1,0 +1,26 @@
+{
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "model_revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "seed": 42,
+  "max_length": 256,
+  "epochs": 1,
+  "learning_rate": 0.0002,
+  "gradient_accumulation_steps": 8,
+  "lora_r": 4,
+  "lora_alpha": 8,
+  "lora_dropout": 0.05,
+  "target_modules": [
+    "q_proj",
+    "v_proj"
+  ],
+  "train_files": [
+    "data/processed/medquad/train.en.jsonl",
+    "data/processed/internal/internal.train.jsonl"
+  ],
+  "validation_files": [
+    "data/processed/medquad/validation.en.jsonl"
+  ],
+  "test_files": [
+    "data/processed/medquad/test.en.jsonl"
+  ]
+}

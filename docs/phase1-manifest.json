@@ -1,0 +1,36 @@
+{
+  "dataset": "MedQuAD",
+  "repository": "https://github.com/abachaa/MedQuAD.git",
+  "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+  "config": {
+    "seed": 42,
+    "limit": 750,
+    "min_answer_chars": 40,
+    "max_answer_chars": 4000,
+    "collections": [
+      "5_NIDDK_QA",
+      "8_NHLBI_QA_XML"
+    ],
+    "excluded_collections": [
+      "10_MPlus_ADAM_QA",
+      "11_MPlusDrugs_QA",
+      "12_MPlusHerbsSupplements_QA"
+    ],
+    "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb"
+  },
+  "eligible_unique": 1495,
+  "selected": 750,
+  "counts": {
+    "train": 572,
+    "test": 100,
+    "validation": 78
+  },
+  "rejected": {
+    "answer_length": 225,
+    "identifier_detected": 1
+  },
+  "exact_duplicates": 30,
+  "translation_status": "pending",
+  "clinical_review": "pending",
+  "records_sha256": "d91c70d4234592f52b955ba176b9f055819d31cd802e86da3dc4f95fbd759dc7"
+}

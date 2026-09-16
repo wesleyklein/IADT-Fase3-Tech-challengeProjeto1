@@ -1,0 +1,6 @@
+PR-005 | Modelo de laudo didático
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Modelo: RASCUNHO DIDÁTICO; paciente sintético; exame; resultado registrado; informações ausentes; fontes; campo de revisão profissional. Não produzir diagnóstico definitivo nem completar resultados inexistentes.

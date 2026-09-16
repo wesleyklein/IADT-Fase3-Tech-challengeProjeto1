@@ -1,0 +1,6 @@
+PR-001 | Identificação do paciente
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Selecione um identificador SYN-P existente. Nunca associe um prontuário por semelhança de nome. Se o identificador não existir, solicite correção e não crie informações.

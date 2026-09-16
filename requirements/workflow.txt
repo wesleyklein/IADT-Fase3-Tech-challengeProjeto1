@@ -1,0 +1,5 @@
+-r rag.txt
+langgraph==0.3.31
+langgraph-checkpoint==2.0.24
+langgraph-checkpoint-sqlite==2.0.6
+streamlit==1.44.1

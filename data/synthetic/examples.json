@@ -1,0 +1,194 @@
+[
+  {
+    "id": "SYN-PR-001-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-001.txt",
+    "protocol_version": "1.0",
+    "question": "Como selecionar um paciente?",
+    "answer": "Use um identificador SYN-P existente e confirme o registro consultado. Fonte: PR-001, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-001-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-001.txt",
+    "protocol_version": "1.0",
+    "question": "Posso escolher o paciente pelo nome parecido?",
+    "answer": "Não. Solicite o identificador correto; semelhança de nome não confirma identidade. Fonte: PR-001, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-001-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-001.txt",
+    "protocol_version": "1.0",
+    "question": "O que fazer com um identificador inexistente?",
+    "answer": "Informe que o paciente não foi encontrado e solicite correção, sem inventar prontuário. Fonte: PR-001, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-002-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-002.txt",
+    "protocol_version": "1.0",
+    "question": "Como identificar exames pendentes?",
+    "answer": "Consulte os exames do paciente e liste somente os registros com status pending. Fonte: PR-002, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-002-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-002.txt",
+    "protocol_version": "1.0",
+    "question": "Um exame pendente pode ser considerado normal?",
+    "answer": "Não. Sem resultado registrado, a conclusão é informação indisponível. Fonte: PR-002, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-002-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-002.txt",
+    "protocol_version": "1.0",
+    "question": "O assistente pode solicitar um exame?",
+    "answer": "Não autonomamente. Uma sugestão depende de avaliação e aprovação humana. Fonte: PR-002, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-003-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-003.txt",
+    "protocol_version": "1.0",
+    "question": "Como citar um protocolo interno?",
+    "answer": "Indique o identificador do protocolo, sua versão e o trecho que fundamenta a resposta. Fonte: PR-003, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-003-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-003.txt",
+    "protocol_version": "1.0",
+    "question": "Uma página externa é um protocolo do hospital?",
+    "answer": "Não. Identifique-a como fonte externa e não atribua suas regras ao hospital. Fonte: PR-003, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-003-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-003.txt",
+    "protocol_version": "1.0",
+    "question": "Como responder sem protocolo correspondente?",
+    "answer": "Informe que a base não contém fundamento suficiente e encaminhe para avaliação humana. Fonte: PR-003, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-004-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-004.txt",
+    "protocol_version": "1.0",
+    "question": "Quando uma sugestão pode ser considerada aprovada?",
+    "answer": "Somente após uma pessoa responsável registrar explicitamente a aprovação. Fonte: PR-004, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-004-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-004.txt",
+    "protocol_version": "1.0",
+    "question": "O que acontece quando o revisor rejeita?",
+    "answer": "Registre a rejeição e não execute a proposta. Fonte: PR-004, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-004-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-004.txt",
+    "protocol_version": "1.0",
+    "question": "O que fazer quando não há revisor?",
+    "answer": "Mantenha a proposta pendente; não interprete silêncio como aprovação. Fonte: PR-004, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-005-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-005.txt",
+    "protocol_version": "1.0",
+    "question": "Quais campos entram no modelo de laudo?",
+    "answer": "RASCUNHO DIDÁTICO, paciente sintético, exame, resultado registrado, informações ausentes, fontes e revisão profissional. Fonte: PR-005, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-005-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-005.txt",
+    "protocol_version": "1.0",
+    "question": "Como preencher um laudo sem resultado?",
+    "answer": "Marque o resultado como indisponível e mantenha o documento como rascunho. Fonte: PR-005, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-005-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-005.txt",
+    "protocol_version": "1.0",
+    "question": "O assistente assina um laudo?",
+    "answer": "Não. A revisão e a assinatura são responsabilidade de profissional habilitado. Fonte: PR-005, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-006-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-006.txt",
+    "protocol_version": "1.0",
+    "question": "Como é o modelo didático de receita?",
+    "answer": "Use um formulário sem validade, com paciente sintético e campos de medicamento, dose, via, frequência e duração reservados ao profissional. Fonte: PR-006, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-006-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-006.txt",
+    "protocol_version": "1.0",
+    "question": "Pode preencher a dose automaticamente?",
+    "answer": "Não. O preenchimento de dose é exclusivo do profissional responsável. Fonte: PR-006, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-006-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-006.txt",
+    "protocol_version": "1.0",
+    "question": "Esse formulário vale como prescrição?",
+    "answer": "Não. É um rascunho didático sem validade, que não autoriza dispensação ou administração. Fonte: PR-006, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-007-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-007.txt",
+    "protocol_version": "1.0",
+    "question": "Como organizar o resumo do paciente?",
+    "answer": "Separe fatos registrados, exames pendentes, informações ausentes e fontes consultadas. Fonte: PR-007, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-007-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-007.txt",
+    "protocol_version": "1.0",
+    "question": "Ausência de registro confirma ausência de doença?",
+    "answer": "Não. Ausência de registro significa informação não disponível. Fonte: PR-007, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-007-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-007.txt",
+    "protocol_version": "1.0",
+    "question": "Posso aproveitar dados de outro paciente?",
+    "answer": "Não. Use somente o contexto do identificador consultado. Fonte: PR-007, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-008-1",
+    "synthetic": true,
+    "source_file": "protocols/PR-008.txt",
+    "protocol_version": "1.0",
+    "question": "O que registrar na auditoria?",
+    "answer": "Registre execução, etapas, ferramentas, fontes e decisão humana, minimizando o conteúdo sensível. Fonte: PR-008, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-008-2",
+    "synthetic": true,
+    "source_file": "protocols/PR-008.txt",
+    "protocol_version": "1.0",
+    "question": "Posso importar prontuários reais no protótipo?",
+    "answer": "Não. Esta versão aceita exclusivamente dados sintéticos. Fonte: PR-008, versão 1.0 (didático). "
+  },
+  {
+    "id": "SYN-PR-008-3",
+    "synthetic": true,
+    "source_file": "protocols/PR-008.txt",
+    "protocol_version": "1.0",
+    "question": "O protótipo atende emergências?",
+    "answer": "Não. Ele é uma demonstração acadêmica e não substitui atendimento profissional. Fonte: PR-008, versão 1.0 (didático). "
+  }
+]

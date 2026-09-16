@@ -1,0 +1,15 @@
+[
+  {"id":"RAG-V01","split":"validation","question":"Como confirmar a identidade antes de consultar um prontuário?","protocols":["PR-001"]},
+  {"id":"RAG-V02","split":"validation","question":"Posso completar um resultado que ainda não foi registrado?","protocols":["PR-002"]},
+  {"id":"RAG-V03","split":"validation","question":"Qual é a capital da Austrália?","protocols":[]},
+  {"id":"RAG-T01","split":"test","question":"Posso localizar o paciente apenas pela semelhança do nome?","protocols":["PR-001"]},
+  {"id":"RAG-T02","split":"test","question":"Como tratar um exame solicitado que ainda está sem resultado?","protocols":["PR-002"]},
+  {"id":"RAG-T03","split":"test","question":"O que responder quando não encontro uma fonte para a informação?","protocols":["PR-003"]},
+  {"id":"RAG-T04","split":"test","question":"Uma sugestão pode ser executada antes da revisão profissional?","protocols":["PR-004"]},
+  {"id":"RAG-T05","split":"test","question":"Quais campos fazem parte do modelo de laudo didático?","protocols":["PR-005"]},
+  {"id":"RAG-T06","split":"test","question":"Quem deve preencher os medicamentos e as doses da receita didática?","protocols":["PR-006"]},
+  {"id":"RAG-T07","split":"test","question":"A ausência de exames permite concluir que o paciente está saudável?","protocols":["PR-007"]},
+  {"id":"RAG-T08","split":"test","question":"Quais informações devem ser registradas para auditoria?","protocols":["PR-008"]},
+  {"id":"RAG-T09","split":"test","question":"Qual será a previsão do tempo em São Paulo amanhã?","protocols":[]},
+  {"id":"RAG-T10","split":"test","question":"Como calcular o imposto de importação de um notebook?","protocols":[]}
+]

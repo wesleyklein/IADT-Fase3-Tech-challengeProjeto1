@@ -1,0 +1,6 @@
+PR-007 | Procedimento de resumo
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Leia o prontuário consultado e produza resumo factual, pendências e limitações. Não transforme ausência de registro em ausência de condição clínica. Não misture pacientes ou conversas.

@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "limit": 750,
+  "min_answer_chars": 40,
+  "max_answer_chars": 4000,
+  "collections": ["5_NIDDK_QA", "8_NHLBI_QA_XML"],
+  "excluded_collections": ["10_MPlus_ADAM_QA", "11_MPlusDrugs_QA", "12_MPlusHerbsSupplements_QA"],
+  "revision": "577bd37b96c02d1833b2c9eed2de9f96964e96cb"
+}

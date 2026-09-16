@@ -1,0 +1,6 @@
+PR-006 | Modelo de receita didática
+Versão: 1.0
+Hospital fictício Horizonte Acadêmico
+SINTÉTICO - RASCUNHO DIDÁTICO - NÃO VALIDADO CLINICAMENTE
+
+Formulário sem validade: RASCUNHO DIDÁTICO; paciente sintético; medicamento [PREENCHIMENTO EXCLUSIVO DO PROFISSIONAL]; dose [PREENCHIMENTO EXCLUSIVO DO PROFISSIONAL]; via; frequência; duração; identificação e assinatura profissional. Não fornecer medicamento, dose ou esquema para um paciente.
